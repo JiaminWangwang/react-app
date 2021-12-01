@@ -1,0 +1,49 @@
+{
+    "result": [
+        {
+            "id": "42874",
+            "field": "0",
+            "course_name": "name1"
+        },
+        {
+            "id": "42875",
+            "field": "1",
+            "course_name": "name2"
+        },
+        {
+            "id": "42876",
+            "field": "2",
+            "course_name": "name3"
+        },
+        {
+            "id": "42877",
+            "field": "3",
+            "course_name": "name4"
+        },
+        {
+            "id": "42878",
+            "field": "0",
+            "course_name": "name5"
+        },
+        {
+            "id": "42879",
+            "field": "1",
+            "course_name": "name6"
+        },
+        {
+            "id": "42880",
+            "field": "2",
+            "course_name": "name7"
+        },
+        {
+            "id": "42881",
+            "field": "3",
+            "course_name": "name8"
+        },
+        {
+            "id": "42874",
+            "field": "3",
+            "course_name": "name9"
+        }
+    ]
+}
